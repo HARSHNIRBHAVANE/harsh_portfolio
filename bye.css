@@ -1,0 +1,46 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #FFD700; /* Yellow for headings */
+}
+
+.navbar-brand, .nav-link, footer p {
+    color: #FFD700; /* Yellow for Navbar and Footer */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+section {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
